@@ -1,1 +1,1 @@
-this is slave brach ,hello slave
+this is slave brach ,hello slave。网上改的，能不能保存
