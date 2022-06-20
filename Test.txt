@@ -1,1 +1,1 @@
-this is slave brach
+this is slave brach ,hello slave
